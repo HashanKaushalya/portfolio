@@ -1,6 +1,6 @@
-# portfolio
+### portfolio
 ### Web dev 2 - Final Project – Web Portfolio
-### by Hashan Jayson Kaushalya
+# by Hashan Jayson Kaushalya
 
 ## Tell us about your process?
 
